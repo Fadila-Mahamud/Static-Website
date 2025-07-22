@@ -111,7 +111,7 @@ The below image shows the JSON Policy Document generated. Copy the policy
 
 •	Go back to Bucket policy and click on Add a new statement. 
 
-•	Paste the copied JSON Policy into the black space
+•	Paste the copied JSON Policy into the blank space
 
 •	Add a slash (/) and asterisk (*) to the bucket arn
 
